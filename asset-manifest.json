@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://brenofbarbieri.github.io/web-habbySmiles/static/css/main.9efcc909.chunk.css",
+    "main.js": "https://brenofbarbieri.github.io/web-habbySmiles/static/js/main.7ba99b9f.chunk.js",
+    "main.js.map": "https://brenofbarbieri.github.io/web-habbySmiles/static/js/main.7ba99b9f.chunk.js.map",
+    "runtime-main.js": "https://brenofbarbieri.github.io/web-habbySmiles/static/js/runtime-main.4d294d17.js",
+    "runtime-main.js.map": "https://brenofbarbieri.github.io/web-habbySmiles/static/js/runtime-main.4d294d17.js.map",
+    "static/js/2.3ffed589.chunk.js": "https://brenofbarbieri.github.io/web-habbySmiles/static/js/2.3ffed589.chunk.js",
+    "static/js/2.3ffed589.chunk.js.map": "https://brenofbarbieri.github.io/web-habbySmiles/static/js/2.3ffed589.chunk.js.map",
+    "index.html": "https://brenofbarbieri.github.io/web-habbySmiles/index.html",
+    "static/css/main.9efcc909.chunk.css.map": "https://brenofbarbieri.github.io/web-habbySmiles/static/css/main.9efcc909.chunk.css.map",
+    "static/js/2.3ffed589.chunk.js.LICENSE.txt": "https://brenofbarbieri.github.io/web-habbySmiles/static/js/2.3ffed589.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d294d17.js",
+    "static/js/2.3ffed589.chunk.js",
+    "static/css/main.9efcc909.chunk.css",
+    "static/js/main.7ba99b9f.chunk.js"
+  ]
+}
