@@ -1,0 +1,17 @@
+.content {
+    background-color: #fff;
+    padding: 2% 5%;
+}
+
+.section {
+    padding: 1.5% 0;
+
+}
+
+.img-thumbnail {
+    max-width: 400px;
+}
+
+.infos {
+    padding: 0px 40px;
+}
